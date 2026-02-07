@@ -54,8 +54,8 @@ A functional GUI calculator for quick arithmetic.
 ### Clone the repository:
 
 ```text
-git clone [https://github.com/your-username/multi-utility-app.git](https://github.com/your-username/multi-utility-app.git)
-cd multi-utility-app
+git clone https://github.com/Sainath-Ghatage/Multi-Utility-Desktop-Application.git
+cd Multi-Utility-Desktop-Application
 ```
 
 ### Install dependencies:
